@@ -12,7 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@botpress/messaging-client": "1.2.1",
+    "@botpress/messaging-client": "1.2.2",
     "@botpress/sdk": "workspace:*",
     "@botpress/sdk-addons": "workspace:*",
     "zod": "^3.20.6"
